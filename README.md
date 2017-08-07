@@ -1,5 +1,5 @@
 # Graph-Based-Image-Segmentation
-Efficient Graph-Based Image Segmentation（中文参考：http://blog.csdn.net/mao_kun/article/details/50576036）的实现源码（C++，看不懂）,自己尝试用python实现，未遂。
+Efficient Graph-Based Image Segmentation（中文参考：http://blog.csdn.net/mao_kun/article/details/50576036) 的实现源码（C++，看不懂),自己尝试用python实现，未遂。
 
 # 环境：
 windows10 + Visual Studio 2013 + python3.5
